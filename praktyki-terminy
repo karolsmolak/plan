@@ -1,0 +1,20 @@
+# Harmonogram praktycznej nauki zawodu – rok szkolny 2026/2027
+#
+# Każdy wiersz: skróty klas (jak w planie lekcji) i termin praktyk od-do, obie daty włącznie.
+# Kilka klas można oddzielić przecinkami. Tekst od znaku # to komentarz.
+# W terminie praktyk lekcje klasy w aplikacji są oznaczone jako nieodbywające się,
+# a ich sale i nauczyciele – jako wolni.
+
+# 2026
+3ab   7.09.2026 - 2.10.2026     # technik ekonomista / technik rachunkowości
+3cg   7.09.2026 - 2.10.2026     # technik handlowiec / technik żywienia i usług gastronomicznych
+3fr   7.09.2026 - 2.10.2026     # technik fotografii i multimediów / technik reklamy
+4g2   5.10.2026 - 30.10.2026    # technik żywienia i usług gastronomicznych
+4br   5.10.2026 - 30.10.2026    # technik rachunkowości / technik reklamy
+4r    23.11.2026 - 18.12.2026   # technik reklamy
+4f    23.11.2026 - 18.12.2026   # technik fotografii i multimediów
+
+# 2027 (ferie 18–31 stycznia)
+4a    1.02.2027 - 26.02.2027    # technik ekonomista
+4c    12.04.2027 - 7.05.2027    # technik handlowiec
+4g    12.04.2027 - 7.05.2027    # technik żywienia i usług gastronomicznych (w harmonogramie: 4g1)
