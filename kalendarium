@@ -1,0 +1,107 @@
+# Kalendarium roku szkolnego 2026/2027
+#
+# Każdy wiersz: rodzaj, termin i opis.
+#   wolne   – dzień wolny od zajęć dydaktycznych
+#   ferie   – ferie
+#   info    – wydarzenie
+#   termin  – ostatni dzień na wykonanie czegoś
+# Termin jak w pliku praktyki-terminy: jeden dzień (27.10.2026) albo zakres (18-31.01.2027),
+# obie daty włącznie. Opis jest pokazywany w aplikacji pod planem każdego dnia z terminu.
+# Na razie wszystkie rodzaje są tylko informacją: lekcje w planie się nie zmieniają.
+# Tekst od # to komentarz.
+
+# wrzesień
+info    1.09.2026       Początek roku szkolnego
+info    10.09.2026      Spotkania wywiadowcze z rodzicami uczniów klas I, godz. 16.00
+termin  10.09.2026      Termin: wybór trójek klasowych w pozostałych klasach (online)
+info    14.09.2026      Konferencja – zatwierdzenie planów pracy na nowy rok szkolny
+info    16.09.2026      Spotkanie z rodzicami uczniów wszystkich klas: godz. 15.30 wybór Prezydium Rady Rodziców, godz. 17.00 spotkanie rodziców z wychowawcami
+info    17.09.2026      Pielgrzymka klas I do Zawady
+# bez daty w kalendarium: Akcja „Sprzątanie świata”, Rzeszowski Salon Maturzystów, Europejski Dzień Języków Obcych
+
+# październik
+info    13.10.2026      Akademia z okazji Dnia Edukacji Narodowej
+info    14.10.2026      Dzień Edukacji Narodowej
+info    16.10.2026      Dzień Papieski
+wolne   27.10.2026      Święto Patrona Szkoły – Jubileusz 90-lecia ZSE, dzień wolny od zajęć dydaktycznych
+termin  31.10.2026      Termin: złożenie do organu prowadzącego wniosku o przyznanie środków na doskonalenie zawodowe nauczycieli
+
+# listopad
+wolne   1.11.2026       Wszystkich Świętych
+wolne   11.11.2026      Narodowe Święto Niepodległości
+info    19.11.2026      Spotkanie wywiadowcze z rodzicami
+termin  27.11.2026      Termin: poinformowanie rodziców i uczniów klas V o przewidywanych ocenach za I semestr
+# bez daty w kalendarium: Międzynarodowy Dzień Tolerancji
+
+# grudzień
+info    11.12.2026      Konferencja klasyfikacyjna klas V
+info    11.12.2026      Koniec I semestru dla klas V maturalnych
+info    14.12.2026      Początek II semestru klas V maturalnych
+info    15.12.2026      30-lecie HDK
+termin  22.12.2026      Termin: podanie przewidywanych ocen za I semestr w klasach I–IV
+ferie   23.12.2026 - 1.01.2027   Ferie świąteczne
+
+# styczeń
+info    7-13.01.2027    Część pisemna egzaminu zawodowego
+info    7-21.01.2027    Część praktyczna egzaminu zawodowego
+wolne   13-14.01.2027   Diagnoza klas maturalnych, dzień wolny od zajęć dydaktycznych
+info    14.01.2027      Konferencja klasyfikacyjna klas I–IV
+info    15.01.2027      Koniec I semestru w klasach I–IV
+info    15.01.2027      Spotkanie wywiadowcze z rodzicami
+info    18.01.2027      Początek II semestru dla klas I–IV
+ferie   18-31.01.2027   Ferie zimowe
+
+# luty
+info    3.02.2027       Konferencja podsumowująca pracę w I semestrze
+termin  7.02.2027       Termin: przyjmowanie od uczniów ostatecznej deklaracji maturalnej
+termin  7.02.2027       Termin: składanie deklaracji do egzaminów zawodowych w sesji czerwiec–lipiec 2027
+termin  28.02.2027      Termin: podanie kandydatom do klas I kryteriów decydujących o przyjęciu do szkoły
+
+# marzec
+wolne   19.03.2027      Dzień Otwarty Szkoły, dzień wolny od zajęć dydaktycznych
+ferie   25-30.03.2027   Ferie wiosenne
+info    31.03.2027      Ogłoszenie wyników egzaminu zawodowego w sesji styczeń–luty 2027
+# bez daty w kalendarium: Rekolekcje wielkopostne
+
+# kwiecień
+termin  5.04.2027       Termin: otrzymanie przez zdających w sesji ZIMA 2027 certyfikatów zawodowych
+termin  6.04.2027       Termin: poinformowanie rodziców i uczniów klas V maturalnych o przewidywanych ocenach końcowych
+info    6.04.2027       Badanie rytmiczności oceniania
+info    6.04.2027       Spotkanie wywiadowcze z rodzicami
+info    27.04.2027      Rada klasyfikacyjna klas V maturalnych
+info    30.04.2027      Koniec II semestru dla klas V maturalnych, pożegnanie absolwentów
+
+# maj
+wolne   1.05.2027       Święto Pracy
+wolne   3.05.2027       Święto Konstytucji 3 Maja
+wolne   4.05.2027       Pisemny egzamin maturalny z języka polskiego – poziom podstawowy, dzień wolny od zajęć dydaktycznych
+wolne   5.05.2027       Pisemny egzamin maturalny z matematyki – poziom podstawowy, dzień wolny od zajęć dydaktycznych
+wolne   6.05.2027       Pisemny egzamin maturalny z języka angielskiego i niemieckiego – poziom podstawowy, dzień wolny od zajęć dydaktycznych
+wolne   7.05.2027       Pisemny egzamin maturalny z języka angielskiego – poziom rozszerzony, dzień wolny od zajęć dydaktycznych
+info    10.05.2027      Pisemny egzamin maturalny z biologii – poziom rozszerzony
+info    11.05.2027      Pisemny egzamin maturalny z matematyki – poziom rozszerzony
+info    12.05.2027      Pisemny egzamin maturalny z WOS – poziom rozszerzony
+info    13.05.2027      Pisemny egzamin maturalny z chemii – poziom rozszerzony
+info    14.05.2027      Pisemny egzamin maturalny z geografii – poziom rozszerzony
+info    17.05.2027      Pisemny egzamin maturalny z informatyki – poziom rozszerzony
+info    18.05.2027      Pisemny egzamin maturalny z historii – poziom rozszerzony
+info    19.05.2027      Pisemny egzamin maturalny z fizyki – poziom rozszerzony
+info    20.05.2027      Pisemny egzamin maturalny z języka polskiego – poziom rozszerzony
+info    21.05.2027      Pisemny egzamin maturalny z biznesu i zarządzania – poziom rozszerzony
+info    21.05.2027      Przekazanie dyplomów potwierdzających kwalifikacje zawodowe
+wolne   27.05.2027      Boże Ciało
+wolne   28.05.2027      Dzień wolny od zajęć dydaktycznych
+
+# czerwiec
+info    2-21.06.2027    Część pisemna i praktyczna egzaminu zawodowego
+termin  7.06.2027       Termin: poinformowanie rodziców i uczniów klas I–IV o przewidywanych ocenach końcowych
+info    21.06.2027      Rada klasyfikacyjna klas I–IV
+info    25.06.2027      Koniec II semestru dla klas I–IV, zakończenie roku szkolnego
+# bez daty w kalendarium: Podanie szkolnego zestawu podręczników na rok szkolny 2027/28
+
+# lipiec, sierpień
+info    9.07.2027       Wydawanie świadectw maturalnych
+info    10.08.2027      Zebranie rady pedagogicznej dotyczące aneksu
+info    23-24.08.2027   Poprawkowy egzamin dojrzałości
+info    27.08.2027      Ogłoszenie wyników egzaminów zawodowych zdawanych w sesji czerwiec–lipiec
+# bez daty w kalendarium: Egzaminy poprawkowe
